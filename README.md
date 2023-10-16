@@ -1,5 +1,5 @@
 # flask-with-stem-tor
-I'm just want to upload this code because "0-harshit-0" done a issue in stem problem.
+I'm just want to upload this code because user "0-harshit-0" done a issue in stem problem.
 
 ## Requirements
 1. Install the Tor proxy server in your PC
